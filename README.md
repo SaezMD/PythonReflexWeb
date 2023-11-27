@@ -12,4 +12,6 @@ Here is the final result:
 ![Screenshot 2023-11-27 121957](https://github.com/SaezMD/PythonReflexWeb/assets/94844441/cbfdcd01-4a09-4ffe-b0e8-bce937620704)
 
 
+The chat bot is connected to my OPENAI account usign the token for the API.
+
 For credits: https://www.youtube.com/watch?v=2u7JlBEavx0
